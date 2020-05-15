@@ -1,0 +1,26 @@
+skill 1: on mixing mode: Serve Cocktails: ●●●● self:switch to serving mode 
+on serving mode: Mix Cocktails: ●●●● self:switch to serving mode,clean all cocktail shaker's effects
+skill description:cocktail shaker has 3 capacities,each capacity can allow you add 1 cocktail shaker effect,and 1 filled capacity can allow you use 1 serving mode's skill,cocktail effects cannot been adding when cocktail shaker is full,but you can still use mixing mode's skills.You can also empty the cocktail shaker by switching back to mixing mode.
+skill 2: on mode: skill set 1: Bloody Mary melee ○○●●X●●○○ DMG modified: -25%,110 ACC,CRT modified: +12%, bleed 3pt/rds for 3rd (140%base)
+cocktail shaker: On the House: buff target: +25% DMG +5% CRT,debuff target: +20% DMG received,get crimson curse if any bloodsucker monster alive (20% chance)
+on mode: skill set 2: Gut Punch: melee ○○●●X●●○○ DMG modified: -50%,110 ACC,CRT modified: +8%, stun (140%base)
+cocktail shaker: Molotov cocktail: debuff target: -20DOGE -20ACC
+skill 3: on mode: skill set 1: Vodka Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
+cocktail shaker: Molotov cocktail: +6 base DMG +5%CRT
+on mode: skill set 2: Make Use of Putrefaction: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT -20 DOGE (140% base) ,blight 3pt/rds for 2rd (140%base)
+cocktail shaker: Molotov cocktail:additional blight 7pt/rds for 1rd (140%base)
+skill 4: on mode: skill set 1: Goes With Liquor ●●●○: heal 3pt/rds for 3 rds
+cocktail shaker: On the House: +3 healing done
+on mode: skill set 2: Heart-to-Heart: ●●●○ -4 stress,clean horror
+cocktail shaker: On the House: +4 stress healing done
+skill 5: on mode: skill set 1: sugar rush:●●●● ●-●-●-● buff target: +4SPD +10DOGE
+cocktail shaker: On the House: buff target: +1 action
+skill set 2: Blood of Christ: ●●●○ heal 1-1,cure bleed/blight,buff target: +15% all resistance
+cocktail shaker: Molotov cocktail: debuff target: +25% DMG received +10%CRT received
+skill 6: Molotov cocktail: ●●●○X●●●● 105 ACC,CRT modified: +5%,+6 torch light,shuffle (140% base)
+skill 7: On the House: ●●●● heal 2-3,-3 stress
+move: Change the Menu: on mixing mode: change skill sets
+on serving mode: no effects
+HP base: 30 doge base: 22 DMG base: 6-13 SPD base: 7 CRT base: 9%
+mixing mode's skills:12345 serving mode's skills:67
+all states is in max skills,weapon,armour level
