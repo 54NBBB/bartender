@@ -7,14 +7,14 @@ on mode: skill set 2: Gut Punch: melee ○○●●X●●○○ DMG modified: -
 cocktail shaker: Molotov cocktail: debuff target: -20DOGE -20ACC
 skill 3: on mode: skill set 1: Vodka Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
 cocktail shaker: Molotov cocktail: +6 base DMG +5%CRT
-on mode: skill set 2: Make Use of Putrefaction: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT -20 DOGE (140% base) ,blight 3pt/rds for 2rd (140%base)
-cocktail shaker: Molotov cocktail:additional blight 7pt/rds for 1rd (140%base)
+on mode: skill set 2: High Wine: range ○○●●X●-●-●○ DMG modified: -100%，105 ACC,CRT modified:+8% debuff target: +10% CRIT received -10 DOGE (140% base)
+cocktail shaker: Molotov cocktail:additional fire actordot(3-2-2)
 skill 4: on mode: skill set 1: Goes With Liquor ●●●○: heal 3pt/rds for 3 rds
 cocktail shaker: On the House: +3 healing done
 on mode: skill set 2: Heart-to-Heart: ●●●○ -4 stress,clean horror
 cocktail shaker: On the House: +4 stress healing done
-skill 5: on mode: skill set 1: sugar rush:●●●● ●-●-●-● buff target: +4SPD +10DOGE
-cocktail shaker: On the House: buff target: +1 action
+skill 5: on mode: skill set 1: sugar rush:●●●○ buff target: +4SPD +10DOGE
+cocktail shaker: On the House: buff target: undetermined
 skill set 2: Blood of Christ: ●●●○ heal 1-1,cure bleed/blight,buff target: +15% all resistance
 cocktail shaker: Molotov cocktail: debuff target: +25% DMG received +10%CRT received
 skill 6: Molotov cocktail: ●●●○X●●●● 105 ACC,CRT modified: +5%,+6 torch light,shuffle (140% base)
